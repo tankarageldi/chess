@@ -1,2 +1,2 @@
-# chess
-Multiplayer chess game
+# Chess
+Multiplayer chess game, in progress. 
